@@ -15,4 +15,3 @@ def sum_of_digits(number):
 just_line()
 print(sum_of_digits(234))
 just_line()
-    
